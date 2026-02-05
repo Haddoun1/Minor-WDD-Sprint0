@@ -34,3 +34,19 @@
 <p>https://stackoverflow.com/questions/28411499/disable-scrolling-on-body</p>
 
 <h2>Dag 4 - 5 februari 2026</h2>
+
+<h3>Wat heb ik gedaan vandaag?</h3>
+
+<p>Vandaag ben ik verder gegaan met het stylen van mijn website. Ik heb twee workshops gevolgd. Vasilis gaf uitleg over theming en Sanne over responsive design. Ik heb geleerd hoe light en dark mode werkt en welke methodes er voor zijn. Verder heb ik informatie gekregen over viewwhidth en hoe het helpt met de website responsive maken. We hebben gehoord dat de website eerst op een kleinere scherm moet werken inplaats van een grotere. Ik heb ook svg's gemaakt voor mijn website. Ik wil deze svg gebruiken om informatie te geven over me zelf. Ik ben er vandaag achter gekomen dat ik niet meerdere html pagina's mag hebben, dus ik heb dat aangepast. Verder heb ik onderzoek gedaan naar svg's en hoe ik ze kan gebruiken als buttons. 
+
+<h3>Hoelang heb ik er aan gewerkt?</h3>
+
+<p>Ik heb ongeveer 2 uur besteed aan het volgen van de workshops en ongeveer 1 uur besteed aan onderzoek en de rest van de tijd aan het werken aan mijn website.</p>
+
+<h3>Wat heb ik geleerd?</h3>
+
+<p>Ik heb geleerd hoe ik light en dark mode kan implementeren op mijn website. Ik heb ook geleerd hoe ik mijn website responsive kan maken door gebruik te maken van viewwhidth. Verder heb ik geleerd hoe ik svg's kan gebruiken als buttons op mijn website.</p>
+
+<h3>Wat ga ik morgen doen?</h3>
+
+<p>Ik ga morgen meer onderzoek doen aan svg's gebruiken en hoe ik goed informatie kan implementeren op mijn website. Ik wil ook grotere stappen zetten aan de style van mijn website.</p>

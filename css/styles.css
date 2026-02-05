@@ -47,15 +47,6 @@ li {
     right: 20%;
 }
 
-.btn svg {
-  margin-right: 8px;
-  fill: currentColor;
-}
-
-img {
-
-}
-
 button {
     border: none;
     background: none;
@@ -63,4 +54,8 @@ button {
     margin: 0;
     padding: 0;
     max-width: fit-content;
+}
+
+.button me {
+      width: 100%;
 }
