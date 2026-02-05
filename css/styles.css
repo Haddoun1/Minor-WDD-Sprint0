@@ -1,7 +1,29 @@
+:root {
+
+}
+
+
+
+
+
+
+
 body {
     background-color: #82CAFF;
     margin: 0;
     overflow: hidden;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1em;
+}
+
+li {
+    font-size: 1.3em;
 }
 
 .zon {
@@ -23,4 +45,22 @@ body {
     position: absolute;
     top: 60%;
     right: 20%;
+}
+
+.btn svg {
+  margin-right: 8px;
+  fill: currentColor;
+}
+
+img {
+
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    max-width: fit-content;
 }
