@@ -1,0 +1,26 @@
+body {
+    background-color: #82CAFF;
+    margin: 0;
+    overflow: hidden;
+}
+
+.zon {
+    width: 12.5vw;
+    height: 12.5vw;
+    background: yellow;
+    border-radius: 50%;
+    position: absolute;
+    left: 75%;
+    top: 10%;
+}
+
+
+.heuveltop {
+    width: 100%;
+    height: 100%;
+    background: green;
+    border-radius: 50%;
+    position: absolute;
+    top: 60%;
+    right: 20%;
+}
