@@ -1,29 +1,29 @@
 :root {
-
+	
+	color-scheme:light dark;
+  --background-color:light-dark(#82CAFF, #01101e);
+  --text-color:light-dark(black, white);
 }
 
-
-
-
-
-
-
 body {
-    background-color: #82CAFF;
+    background-color: var(--background-color);
     margin: 0;
     overflow: hidden;
 }
 
 h1 {
     font-size: 2.5em;
+    color: var(--text-color);
 }
 
 p {
     font-size: 1em;
+     color: var(--text-color);
 }
 
 li {
     font-size: 1.3em;
+    color: var(--text-color);
 }
 
 .zon {
@@ -54,8 +54,4 @@ button {
     margin: 0;
     padding: 0;
     max-width: fit-content;
-}
-
-.button me {
-      width: 100%;
 }
