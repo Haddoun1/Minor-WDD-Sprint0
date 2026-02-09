@@ -7,13 +7,13 @@
 }
 
 @font-face {
-	font-family: "chandia";
-	src: url("../fonts/ChandiaDecorative_PERSONAL_USE_ONLY.otf");
+	font-family: "akira";
+	src: url("../fonts/Akira Expanded Demo.otf");
 }
 
 * {
     box-sizing: border-box;
-    font-family: "chandia";
+    font-family: "akira";
 }
 
 body {
