@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light">
     <title>Naoufal's valley</title>
     <link rel="stylesheet" href="/css/styles.css">
     <script src="/javascript/script.js" defer></script>
@@ -18,12 +19,30 @@
         <div class="heuvel"> </div>
         <div class="heuveltop"> </div>
 
-    <ul class="buttons">
-      <li><button class="button me"></button></li>
-      <li><button class="button leerdoelen"></button></li>
-      <li><button class="button hobbys"></button></li>
-      <li><button class="theme-toggle"></button></li>
-    </ul>
+        <button id="mezelfKnop"></button>
+
+        <dialog id="mezelfKnopOpen">
+            <form method="dialog">
+                <h2>Wie ben ik?</h2>
+                <p>Hi, Ik ben Naoufal. Ik ben 21 jaar oud en ik woon in Amsterdam. Mijn hobbies zijn tekenen, koken, het
+                    beoefenen van vechtsporten en gamen.</p>
+                <button>Terug</button>
+            </form>
+        </dialog>
+
+        <button id="leerdoelenKnop">Leerdoelen</button>
+        <dialog id="leerdoelenKnopOpen">
+            <form method="dialog">
+                 <h2>Leerdoelen</h2>
+                <p>Ik wil goed worden in het gebruiken van API's en het verbeteren van van CSS, zodat ik betere websites
+                    kan maken en mijn prototypes tot leven kan brengen.
+                    Verder wil ik beter worden met het werken in een team.
+                </p>
+                <button>Terug</button>
+            </form>
+        </dialog>
+
+
 
     </main>
 </body>

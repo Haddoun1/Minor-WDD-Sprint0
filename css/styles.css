@@ -1,8 +1,9 @@
 :root {
-	
-	color-scheme:light dark;
-  --background-color:light-dark(#82CAFF, #01101e);
-  --text-color:light-dark(black, white);
+
+    color-scheme: light dark;
+    --background-color: light-dark(#82CAFF, #01101e);
+    --background-color2: light-dark(#ffffff, #000000);
+    --text-color: light-dark(black, white);
 }
 
 body {
@@ -11,19 +12,28 @@ body {
     overflow: hidden;
 }
 
+main {
+    max-width: 36em;
+    margin-inline: auto;
+}
+
 h1 {
-    font-size: 2.5em;
+    font-size: clamp(1.5rem, 1.25rem + 2vw, 3rem);
     color: var(--text-color);
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 p {
     font-size: 1em;
-     color: var(--text-color);
+    color: var(--text-color);
+    padding-left: 10%;
 }
 
 li {
     font-size: 1.3em;
     color: var(--text-color);
+    padding-left: 10%;
 }
 
 .zon {
@@ -47,11 +57,27 @@ li {
     right: 20%;
 }
 
-button {
-    border: none;
+#mezelfKnop {
+    position: absolute;
+    top: 300px;
     background: none;
+    border: none;
     cursor: pointer;
-    margin: 0;
-    padding: 0;
-    max-width: fit-content;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    background-image: url(/images/svgcharacter.svg);
+}
+
+dialog {
+    width: clamp(300px, 90vw, 600px);
+    height: clamp(100px, 60vw, 300px);
+    background-color: var(--background-color2);
+}
+
+dialog::backdrop {
+    background-color: #fff9;
+    backdrop-filter: blur(4px);
 }
