@@ -6,6 +6,11 @@
     --text-color: light-dark(black, white);
 }
 
+
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: var(--background-color);
     margin: 0;
@@ -70,6 +75,23 @@ li {
     height: 200px;
     background-image: url(/images/svgcharacter.svg);
 }
+
+#leerdoelenKnop {
+    position: absolute;
+    top: 465px;
+    left: 40%;
+    background: none;
+    border: none;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 75px;
+    height: 75px;
+    background-image: url(/images/leerdoelen.svg);
+    transform: rotate(15deg);
+}
+
 
 dialog {
     width: clamp(300px, 90vw, 600px);
