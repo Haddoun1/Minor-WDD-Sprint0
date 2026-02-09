@@ -73,7 +73,7 @@ li {
     background-size: contain;
     width: 200px;
     height: 200px;
-    background-image: url(/images/svgcharacter.svg);
+    background-image: url(./images/svgcharacter.svg);
 }
 
 #leerdoelenKnop {
@@ -88,7 +88,7 @@ li {
     background-size: contain;
     width: 75px;
     height: 75px;
-    background-image: url(/images/leerdoelen.svg);
+    background-image: url(./images/leerdoelen.svg);
     transform: rotate(15deg);
 }
 
