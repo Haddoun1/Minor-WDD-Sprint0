@@ -37,7 +37,7 @@
 
 <h3>Wat heb ik gedaan vandaag?</h3>
 
-<p>Vandaag ben ik verder gegaan met het stylen van mijn website. Ik heb twee workshops gevolgd. Vasilis gaf uitleg over theming en Sanne over responsive design. Ik heb geleerd hoe light en dark mode werkt en welke methodes er voor zijn. Verder heb ik informatie gekregen over viewwhidth en hoe het helpt met de website responsive maken. We hebben gehoord dat de website eerst op een kleinere scherm moet werken inplaats van een grotere. Ik heb ook svg's gemaakt voor mijn website. Ik wil deze svg gebruiken om informatie te geven over me zelf. Ik ben er vandaag achter gekomen dat ik niet meerdere html pagina's mag hebben, dus ik heb dat aangepast. Verder heb ik onderzoek gedaan naar svg's en hoe ik ze kan gebruiken als buttons. 
+<p>Vandaag ben ik verder gegaan met het stylen van mijn website. Ik heb twee workshops gevolgd. Vasilis gaf uitleg over theming en Sanne over responsive design. Ik heb geleerd hoe light en dark mode werkt en welke methodes er voor zijn. Verder heb ik informatie gekregen over viewwhidth en hoe het helpt met de website responsive maken. We hebben gehoord dat de website eerst op een kleinere scherm moet werken inplaats van een grotere. Ik heb ook svg's gemaakt voor mijn website. Ik wil deze svg gebruiken om informatie te geven over me zelf. Ik ben er vandaag achter gekomen dat ik niet meerdere html pagina's mag hebben, dus ik heb dat aangepast. Verder heb ik onderzoek gedaan naar svg's en hoe ik ze kan gebruiken als buttons.</p>
 
 <h3>Hoelang heb ik er aan gewerkt?</h3>
 
@@ -50,3 +50,21 @@
 <h3>Wat ga ik morgen doen?</h3>
 
 <p>Ik ga morgen meer onderzoek doen aan svg's gebruiken en hoe ik goed informatie kan implementeren op mijn website. Ik wil ook grotere stappen zetten aan de style van mijn website.</p>
+
+<h2>Dag 5 - 6 februari 2026</h2>
+
+<h3>Wat heb ik gedaan vandaag?</h3>
+
+<p>Vandaag zijn we begonnnen met een expo/kleine markt waar iedereen aan mee moest doen. We konden elkaars websites bekijken en zien hoe hun codes in elkaar zitten. Het was leuk om iedereen hun werkt te zien en het was motiverend om iedereen hun werk te zien. Het was een boost voor mij om nieuwe dingen te proberen. Na de expo heb ik wat aanpassingen gemaakt aan me website. Ik ben begonnen met toevoegen van informatie in de svg's die nu buttons zijn. Verder heb ik ook veel gewerkt aan het positioneren van de svg's. Dit was best lastig want ik heb nog best veel moeite met het gebruiken van vw en vh en nu ook clamp. Ik ben ook alvast gaan kijken welke informatie ik uit de API zou willen halen. Ik heb gekozen voor de avatar en naam.</p>
+
+<h3>Hoelang heb ik er aan gewerkt?</h3>
+
+<p>We waren ongeveer anderhalf uur bezig met de expo, 2 uurtjes bezig met mijn website.</p>
+
+<h3>Wat heb ik geleerd?</h3>
+
+<p>Ik heb geleerd hoe ik informatie uit een API kan halen en hoe ik die informatie kan gebruiken in mijn website. Ik heb ook geleerd hoe ik svg's kan gebruiken als buttons en hoe ik ze kan positioneren op mijn website.</p>
+
+<h3>Wat ga ik volgende week doen?</h3>
+
+<p>Ik ga volgende week doorwerken aan mijn website en controleren wat ik nog moet implementeren. Verder </p>
