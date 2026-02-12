@@ -15,9 +15,8 @@
 
 }
 
-/* =====================
-   Fonts
-===================== */
+/* FONTS */
+
 @font-face {
   font-family: "akira";
   src: url("../fonts/Akira Expanded Demo.otf");
@@ -28,18 +27,15 @@
   src: url("../fonts/the_King__26_Queen_font.ttf");
 }
 
-/* =====================
-   Layout
-===================== */
+/* CANVAS */
+
 body {
   margin: 0;
   background-color: var(--background-color);
   overflow: hidden;
 }
 
-/* =====================
-   Stars (dark mode only)
-===================== */
+/* STERREN */
 
 html.dark body::before {
   content: "";
@@ -58,6 +54,7 @@ html.dark body::before {
   z-index: 0;
 }
 
+/* https://chatgpt.com/share/698d92fc-d534-8005-a678-d16abab0fc55 */
 .app {
   position: fixed;
   inset: 0;
@@ -108,9 +105,11 @@ li {
   border-radius: 50%;
 }
 
-/* =====================
-   Buttons (SVG)
-===================== */
+
+/* BUTTONS */
+
+/* Hulp van Alex en Julius */
+
 button {
   background: none;
   border: none;
@@ -169,11 +168,12 @@ button {
 dialog {
   top: 430px;
   width: clamp(300px, 100vw, 1400px);
-  /* height: clamp(100px, 100vw, 200px); */
   font-family: "akira";
   background-color: var(--form-color);
   border-color: var(--text-color-2);
 }
+
+/* Hulp van Sanne met de grid */
 
 form {
   display: grid;
@@ -205,6 +205,8 @@ form button {
   grid-area: knop;
   align-self: end;
 }
+
+/* Hulp van Sanne met de grid */
 
 dialog::backdrop {
   background-color: #fff9;

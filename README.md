@@ -67,4 +67,40 @@
 
 <h3>Wat ga ik volgende week doen?</h3>
 
-<p>Ik ga volgende week doorwerken aan mijn website en controleren wat ik nog moet implementeren. Verder </p>
+<p>Ik ga volgende week doorwerken aan mijn website en controleren wat ik nog moet implementeren volgends de eisen. </p>
+
+<h1>Week 1 voortgang</h1>
+
+<p>Ik heb de eerste week van het sprintproject afgerond. Ik ben begonnen met het maken van de canvas, zon, de heuvel en svg's die ik heb gemaakt in Canva. </p>
+
+<h2>Dag 6 - 9 februari 2026</h2>
+
+<h3>Wat heb ik gedaan vandaag?</h3>
+
+<h3>Hoelang heb ik er aan gewerkt?</h3>
+
+<h3>Wat heb ik geleerd?</h3>
+
+<h3>Wat ga ik volgende week doen?</h3>
+
+
+<h2>Dag 7 - 10 februari 2026</h2>
+
+<h3>Wat heb ik gedaan vandaag?</h3>
+
+<h3>Hoelang heb ik er aan gewerkt?</h3>
+
+<h3>Wat heb ik geleerd?</h3>
+
+<h3>Wat ga ik volgende week doen?</h3>
+
+
+<h2>Dag 8 - 11 februari 2026</h2>
+
+<h3>Wat heb ik gedaan vandaag?</h3>
+
+<h3>Hoelang heb ik er aan gewerkt?</h3>
+
+<h3>Wat heb ik geleerd?</h3>
+
+<h3>Wat ga ik volgende week doen?</h3>

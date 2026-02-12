@@ -25,7 +25,7 @@ juliusKnop.addEventListener("click", () => juliusKnopOpen.showModal());
 sanneKnop.addEventListener("click", () => sanneKnopOpen.showModal());
 
 
-
+/* https://chatgpt.com/share/698d92fc-d534-8005-a678-d16abab0fc55 */
 
 let deLijst = document.querySelector("form")
 
@@ -151,21 +151,5 @@ function berekenLeeftijd(birthdate) {
     }
 
     return leeftijd;
-}
-
-const zonKnop = document.querySelector(".zon")
-
-zonKnop.addEventListener("click", toggleTheme)
-
-function toggleTheme() {
-    const html = document.documentElement
-
-    if (html.classList.contains("dark")) {
-        html.classList.remove("dark")
-        html.classList.add("light")
-    } else {
-        html.classList.remove("light")
-        html.classList.add("dark")
-    }
 }
 
